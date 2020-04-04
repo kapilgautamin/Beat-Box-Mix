@@ -8,10 +8,10 @@ const drumSounds = {
 };
 
 const drumUrls = {
-  kicks: 'http://localhost:4001/audio/kick.wav',
-  snares: 'http://localhost:4001/audio/snare.wav',
-  rideCymbals: 'http://localhost:4001/audio/ride.wav',
-  hiHats: 'http://localhost:4001/audio/hiHat.wav'
+  kicks: 'audio/kick.wav',
+  snares: 'audio/snare.wav',
+  rideCymbals: 'audio/ride.wav',
+  hiHats: 'audio/hiHat.wav'
 };
 
 const getDrumAudioData = () => {
